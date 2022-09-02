@@ -1,13 +1,12 @@
 COMANDOS REPO GITHUB
 
-
 1) Criando repositório e linkando com o git
 
 git init
 git add *
 git config --global user.email filipimacielrj@gmail.com
 git config --global user.name Filip3ra
-git commit -m "mensagem"
+git commit -m "primeiro commit"
 git remote add origin //link do repositório
 git push --set-upstream origin master
 
